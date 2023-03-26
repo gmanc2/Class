@@ -2,7 +2,7 @@ import math
 import colorama
 from colorama import Fore, Style, init
 
-init(colorama)
+init()
 
 
 def color_text(number, text, color):
